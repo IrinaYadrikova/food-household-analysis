@@ -1,0 +1,338 @@
+code,code_level,food_category,food_group,major_food_code,minor_food_code,units
+cat520,1,Milk and milk products excluding cheese,,,,ml
+4006,2,,"Liquid wholemilk, including school and welfare",,,ml
+4,3,,,"Liquid wholemilk, full price",,ml
+402,4,,,,UHT milk,ml
+403,4,,,,Sterilised,ml
+404,4,,,,Pasteurised/ homogenised,ml
+501,3,,,School milk  [note 6],,ml
+601,3,,,Welfare milk [note 11],,ml
+9017,2,,Other milk and cream,,,ml
+15,3,,,Skimmed milks,,ml
+1502,4,,,,Fully skimmed milk,ml
+1503,4,,,,Semi-skimmed milk,ml
+901,3,,,Condensed or evaporated milk,,eq ml
+11,3,,,Infant milks,,eq ml
+1102,4,,,,Infant or baby milks - ready to drink,eq ml
+1103,4,,,,Infant or baby milks - dried,eq ml
+1201,3,,,Instant dried milk,,eq ml
+13,3,,,Yoghurt and fromage frais,,ml
+1301,4,,,,Yoghurt,ml
+1302,4,,,,Fromage frais,ml
+16,3,,,Other milks and dairy desserts,,ml
+1603,4,,,,Dairy desserts - not frozen,ml
+1605,4,,,,Dried milk products,ml
+1607,4,,,,Milk drinks and other milks [note 7],ml
+1608,4,,,,Non-dairy milk substitutes [note 7],ml
+17,3,,,Cream,,ml
+22023,2,,Cheese,,,g
+22,3,,,Natural cheese,,g
+2201,4,,,,Hard cheese - cheddar type,g
+2202,4,,,,Hard cheese - other uk or foreign equivalent,g
+2203,4,,,,Hard cheese - edam or other foreign,g
+2205,4,,,,Cottage cheese,g
+2206,4,,,,Soft natural cheese,g
+2301,3,,,Processed cheese,,g
+31041,2,,Carcase meat,,,g
+31,3,,,Beef and veal,,g
+3102,4,,,,Beef joints - on the bone,g
+3103,4,,,,Beef joints - boned,g
+3104,4,,,,Beef steak - less expensive,g
+3105,4,,,,Beef steak - more expensive,g
+3106,4,,,,Minced beef,g
+3107,4,,,,All other beef and veal,g
+36,3,,,Mutton and lamb,,g
+3601,4,,,,Mutton,g
+3602,4,,,,Lamb joints,g
+3603,4,,,,Lamb chops,g
+3604,4,,,,All other lamb,g
+41,3,,,Pork,,g
+4101,4,,,,Pork joints,g
+4102,4,,,,Pork chops,g
+4103,4,,,,Pork fillets and steaks,g
+4104,4,,,,All other pork,g
+46095,2,,Non-carcase meat and meat products,,,g
+46,3,,,Liver,,g
+4603,4,,,,Ox liver,g
+4604,4,,,,Lambs liver,g
+4605,4,,,,Pigs liver,g
+4607,4,,,,All other liver,g
+51,3,,,All offal other than liver,,g
+55,3,,,"Bacon and ham, uncooked",,g
+5502,4,,,,"Bacon and ham joints, uncooked",g
+5505,4,,,,"Bacon and ham rashers, uncooked",g
+58,3,,,"Bacon and ham, cooked",,g
+59,3,,,Cooked poultry not purchased in cans,,g
+5903,4,,,,"Chicken and turkey, cooked",g
+5904,4,,,,Takeaway chicken,g
+62,3,,,"Corned beef, canned or sliced",,g
+66,3,,,Other cooked meat,,g
+71,3,,,Other canned meat and canned meat products,,g
+74,3,,,"Chicken, uncooked - whole chicken or chicken pieces",,g
+77,3,,,"Other poultry, uncooked (including frozen)",,g
+7703,4,,,,"Turkey, uncooked - whole turkey or turkey pieces",g
+7704,4,,,,"Poultry other than chicken or turkey, uncooked",g
+78,3,,,"Other fresh, chilled and frozen meat",,g
+79,3,,,"Sausages, uncooked - pork",,g
+80,3,,,"Sausages, uncooked - beef and other sausages",,g
+83,3,,,"Meat pies and sausage rolls, ready to eat",,g
+8302,4,,,,"Meat pies, ready to eat",g
+8303,4,,,,"Sausage rolls, ready to eat",g
+84,3,,,"Meat pies, pasties and puddings, frozen or not frozen",,g
+85,3,,,"Burgers, frozen or not frozen",,g
+89,3,,,Ready meals and convenience meat products,,g
+8901,4,,,,"Complete meat-based ready meals, frozen or not frozen",g
+8902,4,,,,"Other convenience meat products, frozen or not frozen",g
+93,3,,,Pate and delicatessen type sausage,,g
+9301,4,,,,Pate,g
+9302,4,,,,Delicatessen type sausages,g
+94,3,,,Meat pastes and spreads,,g
+95,3,,,Takeaway meats,,g
+9501,4,,,,Takeaway meat pies and pasties,g
+9502,4,,,,Takeaway burger and bun,g
+9503,4,,,,Takeaway kebabs,g
+9504,4,,,,Takeaway sausages and saveloys,g
+9505,4,,,,Takeaway meat based meals,g
+9506,4,,,,Takeaway miscellaneous meats,g
+100123,2,,Fish,,,g
+102,3,,,"White fish, fresh, chilled or frozen",,g
+10201,4,,,,"White fish, fresh or chilled",g
+10202,4,,,,"White fish, frozen",g
+106,3,,,"Herrings and other blue fish, fresh, chilled or frozen",,g
+10601,4,,,,"Herrings and other blue fish, fresh or chilled",g
+10602,4,,,,"Herrings and other blue fish, frozen",g
+107,3,,,"Salmon, fresh, chilled or frozen",,g
+10701,4,,,,"Salmon, fresh or chilled",g
+10702,4,,,,"Salmon, frozen",g
+10801,3,,,"Blue fish, dried or salted or smoked",,g
+11401,3,,,"White fish, dried, salted or smoked",,g
+117,3,,,Shellfish,,g
+11702,4,,,,"Shellfish, fresh or chilled",g
+11703,4,,,,"Shellfish, frozen",g
+118,3,,,Takeaway fish,,g
+119,3,,,"Salmon, tinned",,g
+120,3,,,Other tinned or bottled fish,,g
+121,3,,,Ready meals and other fish products - frozen or not frozen,,g
+123,3,,,Takeaway fish meals and fish products,,g
+12304,4,,,,Takeaway fish products,g
+12305,4,,,,Takeaway fish based meals,g
+129129,2,,Eggs,,,no.
+135148,2,,Fats,,,g
+135,3,,,Butter,,g
+138,3,,,Margarine,,g
+13801,4,,,,Soft margarine,g
+13802,4,,,,Other margarine,g
+139,3,,,"Lard, cooking fat",,g
+143,3,,,Vegetable and salad oils,,ml
+14304,4,,,,Olive oil,ml
+14305,4,,,,Other vegetable and salad oils,ml
+148,3,,,All other fats,,g
+14802,4,,,,Reduced fat spreads,g
+14803,4,,,,Low fat spreads,g
+14805,4,,,,Suet and dripping,g
+14807,4,,,,Imitatation cream,g
+150154,2,,Sugar and preserves,,,g
+150,3,,,Sugar,,g
+151,3,,,Jams and fruit curds,,g
+152,3,,,Marmalade,,g
+153,3,,,"Syrup, treacle",,g
+154,3,,,Honey,,g
+t4,1,"Fresh and processed fruit and vegetables, including potatoes",,,,g
+cat730,1,"Fresh and processed vegetables, including potatoes",,,,g
+cat701,1,Fresh and processed potatoes,,,,g
+155,3,,,Fresh potatoes,,g
+15505,4,,,,Fresh new potatoes [note 7],g
+15506,4,,,,Fresh baking potatoes [note 7],g
+15504,4,,,,Other fresh potatoes [note 7],g
+cat710,2,Processed potatoes,,,,g
+197,3,,,Chips and takeaway chips,,g
+19702,4,,,,Chips - frozen or not frozen,g
+19703,4,,,,Takeaway chips,g
+198,3,,,Instant potato,,g
+199,3,,,Canned potatoes,,g
+200,3,,,Crisps and potato snacks,,g
+201,3,,,"Other potato products, frozen or not frozen",,g
+cat811,1,"Fresh and processed fruit and vegetables, excluding potatoes",,,,g
+cat720,1,"Fresh and processed vegetables, excluding potatoes",,,,g
+162171,2,,Fresh green vegetables,,,g
+162,3,,,Fresh cabbages,,g
+163,3,,,Fresh brussels sprouts,,g
+164,3,,,Fresh cauliflower,,g
+167,3,,,Leafy salads fresh,,g
+16701,4,,,,Lettuce and leafy salads,g
+16702,4,,,,Prepared lettuce salads,g
+168,3,,,Fresh peas,,g
+169,3,,,Fresh beans,,g
+171,3,,,Other fresh green vegetables,,g
+172183,2,,Other fresh vegetables,,,g
+172,3,,,Fresh carrots,,g
+173,3,,,Fresh turnips and swede,,g
+174,3,,,Other fresh root vegetables,,g
+175,3,,,"Fresh onions, leeks and shallots",,g
+176,3,,,Fresh cucumbers,,g
+177,3,,,Fresh mushrooms,,g
+178,3,,,Fresh tomatoes,,g
+183,3,,,Miscellaneous fresh vegtables,,g
+18301,4,,,,"Fresh vegetable stewpack, stirfry pack etc.",g
+18302,4,,,,Fresh stem vegetables,g
+18303,4,,,,"Fresh marrow, courgettes, aubergine, pumpkin and other vegetables",g
+18304,4,,,,Fresh herbs,g
+cat702,2,Processed vegetables excluding processed potatoes,,,,g
+184,3,,,"Tomatoes, canned or bottled",,g
+185,3,,,"Peas, canned",,g
+188,3,,,Beans canned,,g
+18802,4,,,,Baked beans in sauce,g
+18803,4,,,,Other canned beans and pulses,g
+191,3,,,Other canned vegetables,,g
+192,3,,,Dried pulses other than air-dried,,g
+195,3,,,Air-dried vegetables,,g
+196,3,,,Vegetable juices and purees,,ml
+19602,4,,,,Tomato puree and vegetable purees,ml
+19603,4,,,,"Vegetable juices eg tomato juice, carrot juice",ml
+203,3,,,"Peas, frozen",,g
+204,3,,,"Beans, frozen",,g
+206,3,,,Ready meals and other vegetable products (inc takeaways),,g
+20601,4,,,,"Ready meals and other vegetable products, frozen or not frozen",g
+20604,4,,,,All vegetable takeaway products,g
+208,3,,,Other frozen vegetables,,g
+cat810,1,Fresh and processed fruit,,,,g
+210231,2,,Fresh fruit,,,g
+210,3,,,Fresh oranges,,g
+214,3,,,Other fresh citrus fruits,,g
+217,3,,,Fresh apples,,g
+218,3,,,Fresh pears,,g
+221,3,,,Fresh stone fruit,,g
+222,3,,,Fresh grapes,,g
+227,3,,,Other fresh soft fruit,,g
+228,3,,,Fresh bananas,,g
+229,3,,,Fresh melons,,g
+231,3,,,Other fresh fruit,,g
+233248,2,,Processed fruit and fruit products,,,g
+233,3,,,"Tinned peaches, pears and pineapples",,g
+236,3,,,All other tinned or bottled fruit,,g
+240,3,,,Dried fruit,,g
+241,3,,,"Frozen strawberries, apple slices, peach halves, oranges and other frozen fruits",,g
+245,3,,,"Nuts, edible seeds and peanut butter",,g
+24502,4,,,,Nuts and edible seeds,g
+24503,4,,,,Peanut butter,g
+248,3,,,Pure fruit juices [note 8],,ml
+251263,2,,Bread,,,g
+cat850,3,White bread,,,,g
+251,4,,,"White bread, standard, unsliced",,g
+252,4,,,"White bread, standard, sliced",,g
+257,4,,,"White bread, premium, sliced and unsliced",,g
+258,4,,,"White bread, soft grain, sliced and unsliced",,g
+cat851,3,Brown and wholemeal bread,,,,g
+259,4,,,"Brown bread, sliced and unsliced",,g
+260,4,,,"Wholemeal and granary bread, sliced and unsliced",,g
+263,3,,,Total other bread,,g
+26302,4,,,,"Rolls - white, brown or wholemeal",g
+26303,4,,,,Malt bread and fruit loaves,g
+26304,4,,,,Vienna and french bread,g
+26305,4,,,,Starch reduced bread and rolls,g
+26308,4,,,,Other breads,g
+26309,4,,,,Sandwiches,g
+26310,4,,,,Sandwiches from takeaway,g
+26311,4,,,,Takeaway breads,g
+264264,2,,Flour,,,g
+267270,2,,"Cakes, buns and pastries",,,g
+267,3,,,"Buns, scones and teacakes",,g
+270,3,,,Cakes and pastries,,g
+27001,4,,,,"Cakes and pastries, not frozen",g
+27002,4,,,,Takeaway pastries,g
+271277,2,,Biscuits and crispbreads,,,g
+271,3,,,Crispbread,,g
+274,3,,,Biscuits other than chocolate,,g
+27402,4,,,,Sweet biscuits (not chocolate) and cereal bars,g
+27403,4,,,,Cream crackers and other unsweetened biscuits,g
+277,3,,,Chocolate biscuits,,g
+281301,2,,Other cereals and cereal products,,,g
+281,3,,,Oatmeal and oat products,,g
+282,3,,,Breakfast cereals,,g
+28202,4,,,,Muesli,g
+28203,4,,,,High fibre breakfast cereals,g
+28204,4,,,,Sweetened breakfast cereals,g
+28205,4,,,,Other breakfast cereals,g
+285,3,,,Canned milk puddings,,g
+28502,4,,,,Canned or fresh carton custard,g
+28503,4,,,,All canned milk puddings,g
+286,3,,,Puddings,,g
+287,3,,,Rice,,g
+28702,4,,,,Dried rice,g
+28703,4,,,,Cooked rice,g
+28704,4,,,,Takeaway rice,g
+290,3,,,"Invalid foods, slimming foods and sports foods",,g
+291,3,,,Infant cereal foods,,g
+294,3,,,Cakes and pastries - frozen,,g
+295,3,,,Pasta,,g
+29501,4,,,,Canned pasta,g
+29502,4,,,,Dried and fresh pasta,g
+29503,4,,,,Takeaway pasta and noodles,g
+296,3,,,Pizza,,g
+29601,4,,,,"Pizzas, frozen and not frozen",g
+29602,4,,,,Takeaway pizza,g
+299,3,,,Other cereal convenience foods,,g
+29907,4,,,,"Cake, pudding and dessert mixes",g
+29909,4,,,,Cereal snacks,g
+29915,4,,,,"Quiches and flans, frozen and not frozen",g
+29916,4,,,,"Takeaway crisps, savoury snacks, popcorn, popadums, prawn crackers",g
+29919,4,,,,"Other cereal foods, frozen and not frozen",g
+301,3,,,Other cereals,,g
+304313,2,,Beverages,,,g
+304,3,,,Tea,,g
+307,3,,,Coffee beans and ground coffee,,g
+308,3,,,Instant coffee,,g
+309,3,,,Coffee essences,,ml
+310,3,,,Tea and coffee from takeaway,,ml
+312,3,,,Cocoa and chocolate drinks,,g
+313,3,,,Malt drinks and chocolate versions of malted drinks,,g
+314339,2,,Other food and drink,,,g
+314,3,,,Mineral or spring waters,,ml
+315,3,,,Baby foods,,g
+318,3,,,Soups - canned or cartons,,g
+319,3,,,Soups - dehydrated or powdered,,g
+320,3,,,Soups - from takeaway,,g
+321,3,,,Other takeaway food brought home,,g
+322,3,,,Meals on wheels - items not specified,,g
+323,3,,,Spreads and dressings,,g
+32302,4,,,,Salad dressings,g
+32303,4,,,,Other spreads and dresssings,g
+327,3,,,Pickles and sauces,,g
+32702,4,,,,Pickles,g
+32703,4,,,,Sauces,g
+32704,4,,,,Takeaway sauces and mayonnnaise,g
+328,3,,,Stock cubes and meat and yeast extracts,,g
+329,3,,,Jelly squares or crystals,,g
+332,3,,,Ice cream tub or block,,ml
+333,3,,,Ice cream products including takeaways,,ml
+33302,4,,,,"Ice cream cornets, choc-ices, lollies with ice cream",ml
+33303,4,,,,"Ice lollies, sorbet, frozen mousse, frozen yoghurt",ml
+33304,4,,,,"Takeaway ice cream, ice cream products, milkshakes",ml
+334,3,,,Salt,,g
+339,3,,,Soya and novel protein foods,,g
+340344,2,,Soft drinks,,,ml
+340,3,,,"Soft drinks, concentrated, not low calorie [note 10]",,ml
+341,3,,,"Soft drinks, not concentrated,  not low calorie",,ml
+343,3,,,"Soft drinks, concentrated, low calorie [note 10]",,ml
+344,3,,,"Soft drinks, not concentrated, low calorie",,ml
+350355,2,,Confectionery,,,g
+350,3,,,Chocolate bars - solid,,g
+351,3,,,Chocolate bars - filled,,g
+352,3,,,Chewing gum,,g
+353,3,,,Mints and boiled sweets,,g
+35301,4,,,,Mints,g
+35302,4,,,,Boiled sweets,g
+354,3,,,"Fudges, toffees, caramels",,g
+355,3,,,Takeaway confectionery,,g
+380389,2,,Alcoholic drinks,,,ml
+381,3,,,Beers,,ml
+382,3,,,Lagers and continental beers,,ml
+383,3,,,Ciders and perry,,ml
+384,3,,,Wine and champagne,,ml
+38402,4,,,,"Champagne, sparkling wines and wine with mixer",ml
+38403,4,,,,Table wine,ml
+385,3,,,Spirits with mixer,,ml
+386,3,,,Fortified wines,,ml
+387,3,,,Spirits,,ml
+388,3,,,Liqueurs and cocktails,,ml
+389,3,,,Alcopops,,ml
